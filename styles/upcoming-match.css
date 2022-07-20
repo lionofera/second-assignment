@@ -110,9 +110,12 @@ body {
     padding: 10px;
     
 }
+.vlog-img {
+    display: flex;
+}
 .vlog-img img {
-    height: 150px;
-    width: 200px;
+    height: 100px;
+    width: 150px;
 }
 #pseudo {
     text-align: center;
@@ -157,6 +160,7 @@ ul {
 li {
     margin: 0 10px;
 }
+
 @media only screen and (max-width:834px) {
 
     .header {
